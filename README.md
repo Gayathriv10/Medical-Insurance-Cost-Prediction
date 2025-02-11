@@ -2,7 +2,7 @@
 
 Medical insurance cost prediction is a crucial task that involves estimating the expected cost of insurance for individuals based on various factors. This can be done using machine learning models 
 
-**Key Factors Affecting Insurance Cost**
+# **Key Factors Affecting Insurance Cost**
  
  -Age
  
@@ -14,7 +14,7 @@ Medical insurance cost prediction is a crucial task that involves estimating the
 
 -Children
 
-**Key Features:**
+# **Key Features:**
 
 -Data Preprocessing 
 
@@ -24,7 +24,7 @@ Medical insurance cost prediction is a crucial task that involves estimating the
 
 -Evaluation Metrics 
 
-**Models Used For Buliding:**
+# **Models Used For Buliding:**
 
 -Linear Regression
 
@@ -34,7 +34,7 @@ Medical insurance cost prediction is a crucial task that involves estimating the
 
 -XGBoost
 
-**Evaluation Metrics:**
+# **Evaluation Metrics:**
 
 -R Squared
 
