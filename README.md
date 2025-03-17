@@ -51,6 +51,9 @@ Install this project using this link
 ```bash
 git clone https://github.com/Gayathriv10/Medical-Insurance-Cost-Prediction.git
 cd Medical-Insurance-Cost-Prediction
+```
+Install the dependencies using this
+```bash
 pip install -r requirements.txt
 ```
     
