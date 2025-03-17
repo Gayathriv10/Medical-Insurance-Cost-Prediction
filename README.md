@@ -49,7 +49,7 @@ Medical insurance cost prediction is a crucial task that involves estimating the
 Install this project using this link 
 
 ```bash
-https://github.com/Gayathriv10/Medical-Insurance-Cost-Prediction.git
+git clone https://github.com/Gayathriv10/Medical-Insurance-Cost-Prediction.git
 cd Medical-Insurance-Cost-Prediction
 pip install -r requirements.txt
 ```
